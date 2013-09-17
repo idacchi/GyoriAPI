@@ -55,3 +55,25 @@ Errors
 ~~~~~~
 
 CanNotAnswer
+
+setRealWorld
+============
+
+Description
+~~~~~~~~~~~
+
+ぎょりを現実世界に引き戻します。
+
+Request Parameters
+~~~~~~~~~~~~~~~~~~
+
+None
+
+Response Elements
+~~~~~~~~~~~~~~~~~
+
+
+
+Errors
+~~~~~~
+
